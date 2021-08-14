@@ -321,6 +321,7 @@ section {
 }
 #bg1{
   opacity:0.92;
+  width: 100%;
   
 }
 
@@ -418,9 +419,7 @@ color: white;
 /*--------------------------------------------------------------
 # skills
 --------------------------------------------------------------*/
-#skills{
 
-}
 
 .skills .progress {
   height: 60px;
@@ -1251,15 +1250,14 @@ color: white;
   line-height: 24px;
   font-size: 14px;
 }
-#services{
-  
-}
+
 
 
 
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
 #contact{
   background-image:url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701597505.jpg);
   opacity:0.94
@@ -1268,7 +1266,10 @@ color: white;
   padding-bottom: 130px;
 }
 
+
+
 .contact .info {
+  
   padding: 30px;
   background: rgb(0, 0, 0);
   width: 70%;
