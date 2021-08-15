@@ -1270,7 +1270,7 @@ color: white;
 
 .contact .info {
   
-  padding: 30px;
+  padding: 20px;
   background: rgb(0, 0, 0);
   width: 80%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1292,7 +1292,7 @@ color: white;
 
 .contact .info h4 {
   padding: 0 0 0 60px;
-  font-size: 22px;
+  font-size: x-large;
   font-weight: 600;
   margin-bottom: 5px;
   color: #ffffff;
@@ -1301,7 +1301,7 @@ color: white;
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
-  font-size: 90%;
+  font-size: small;
   color: #7095c9;
 }
 
